@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002_VISA_Sameday_PartialRefund</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cbb920b-d166-45a8-be13-75c29da6ac4a</testCaseGuid>
+   <variable>
+      <defaultValue>'10.00'</defaultValue>
+      <description></description>
+      <id>9a5a5f37-140b-4a85-ae4a-3f3822e0be69</id>
+      <masked>false</masked>
+      <name>refundAmount</name>
+   </variable>
+</TestCaseEntity>

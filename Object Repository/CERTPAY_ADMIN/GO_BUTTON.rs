@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GO_BUTTON</name>
+   <tag></tag>
+   <elementGuidId>1c5e64fe-ad04-49b9-b30d-b052e90f6d47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;content-wrapper&quot;]/div/div/div[2]/div/div/div/form[1]/div/div/div[1]/div/span[2]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

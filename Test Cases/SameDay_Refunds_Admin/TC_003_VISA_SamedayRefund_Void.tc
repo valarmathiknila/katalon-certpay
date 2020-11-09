@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_003_VISA_SamedayRefund_Void</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0f9c25b-a8d2-460a-a1e4-e59b09b8fa28</testCaseGuid>
+</TestCaseEntity>
